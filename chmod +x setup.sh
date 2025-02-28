@@ -1,0 +1,1 @@
+chmod +x setup.sh (example: using make) # Uncomment and modify the following line as needed # make # Run tests (example: using a test framework) # Uncomment and modify the following line as needed # make test echo "Setup completed successfully."
